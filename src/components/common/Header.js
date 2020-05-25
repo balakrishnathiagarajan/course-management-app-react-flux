@@ -3,7 +3,7 @@ import React from "react";
 function Header() {
   return (
     <nav>
-      <a href="Home"> Home</a> | <a href="/courses">Courses</a> |{" "}
+      <a href="/">Home</a> | <a href="/courses">Courses</a> |{" "}
       <a href="/about">About</a>
     </nav>
   );
